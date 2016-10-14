@@ -10,7 +10,7 @@ This solution was based on <a href='https://github.com/stascorp/rdpwrap'>rdpwrap
    * Removed update module
    * Removed license
    * Removed online install mode
-   * Added feature to custom wrap dll path and name
+   * Added feature to custom dll path and name
 
 ### Usage:
     RDPWInst.exe -i dll_full_path   //install rdpwrap module
